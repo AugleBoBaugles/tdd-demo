@@ -14,7 +14,10 @@ We'll build a single function, `add(a, b)`, step-by-step **the TDD way**:
 You only need Node.js installed.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tdd-demo.git
+git clone https://github.com/AugleBoBaugles/tdd-demo.git
+```
+```bash
 cd tdd-demo
 npm init -y
 npm install --save-dev jest
+```
